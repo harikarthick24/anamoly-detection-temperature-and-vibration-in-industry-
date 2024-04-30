@@ -1,0 +1,1 @@
+# anamoly-detection-temperature-and-vibration-in-industry-
